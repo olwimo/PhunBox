@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Processing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/library/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/library/gluegen-rt-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/library/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/library/jogl-all-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/library/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MacOS/core/apple.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
