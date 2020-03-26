@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CoreMidi4J">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/MacOS/CoreMidi4J" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/MacOS/CoreMidi4J" recursive="false" />
+  </library>
+</component>
